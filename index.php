@@ -32,7 +32,7 @@ include_once("/components/functions.php");
             height: 50px;
         }
 
-        @font-face {
+        @font-face { 
             font-family: "HelveticaNeueCyr-Light";
             src: url(/fonts/HelveticaNeueCyr-Light.otf) format("truetype");
         }
